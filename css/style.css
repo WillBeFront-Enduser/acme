@@ -68,7 +68,7 @@ header nav{
 }
 
 header .highlight, header .current a{
-  color:#44190d;
+  color:#611601;
   font-weight:bold;
 }
 
@@ -99,7 +99,7 @@ header a:hover{
 #newsletter{
   padding:15px;
   color:#ffffff;
-  background:#1d2429
+  background:#35424a
 }
 
 #newsletter h1{
@@ -158,7 +158,7 @@ footer{
   padding:20px;
   margin-top:20px;
   color:#ffffff;
-  background-color:#f83600;
+  background-color:#e8491d;
   text-align: center;
 }
 
