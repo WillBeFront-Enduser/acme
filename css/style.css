@@ -186,19 +186,19 @@ footer{
 }
 
 .current:hover {
-  -webkit-transform: rotateZ(20deg);
-  -ms-transform: rotateZ(20deg);
-  transform: rotateZ(20deg);
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
 }
 
 .rotate1:hover {
-  -webkit-transform: rotateZ(20deg);
-  -ms-transform: rotateZ(20deg);
-  transform: rotateZ(20deg);
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
 }
 
 .rotate2:hover {
-  -webkit-transform: rotateZ(20deg);
-  -ms-transform: rotateZ(20deg);
-  transform: rotateZ(20deg);
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
 }
