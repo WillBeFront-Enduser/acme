@@ -16,15 +16,6 @@ ul{
   padding:0;
 }
 
-.button_1{
-  height:38px;
-  background:#fc4300;
-  border:0;
-  padding-left: 20px;
-  padding-right:20px;
-  color:#ffffff;
-}
-
 .dark{
   padding:15px;
   background:#35424a;
@@ -133,7 +124,7 @@ aside#sidebar{
   margin-top:10px;
 }
 
-aside#sidebar .quote input, aside#sidebar .quote textarea{
+aside#sidebar input, aside#sidebar textarea{
   width:90%;
   padding:5px;
 }
